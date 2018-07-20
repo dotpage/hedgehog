@@ -141,6 +141,7 @@
 }
 
 .footer__copyright {
+  margin: 0;
   padding: 30px 0;
   box-sizing: border-box;
   word-wrap: break-word;
